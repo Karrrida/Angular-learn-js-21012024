@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
 	title = 'Angular-learn-js-21012024';
+	property = 'property';
 }
